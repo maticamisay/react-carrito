@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "ssd 1tb",
+    "price": 100
+  },
+  {
+    "id": 2,
+    "name": "ssd 2tb",
+    "price": 200
+  },
+  {
+    "id": 3,
+    "name": "ssd 3tb",
+    "price": 300
+  }
+]
